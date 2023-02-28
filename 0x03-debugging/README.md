@@ -1,1 +1,2 @@
-C - Debugging
+#!/bin/bash
+echo "Debugging project"
